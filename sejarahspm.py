@@ -1,5 +1,6 @@
 ##Author : Mohin Paramasivam
 ##Examination : Sijil Pelajaran Malaysia
+## Description : Use this program to find your total score sejarah paper if you are bored of calculating manually.
 
 kertas1 = float(input("Sila Masukkan markah kertas 1  anda : "))
 kertas2 = float(input("Sila Masukkan markah kertas 2  anda : "))
